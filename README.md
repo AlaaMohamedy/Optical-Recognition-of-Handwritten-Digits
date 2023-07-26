@@ -1,2 +1,2 @@
 # Optical-Recognition-of-Handwritten-Digits
-Optical Recognition of Handwritten Digits using DNN
+Optical Recognition of Handwritten Digits with {test accuracy: 98.055%)
